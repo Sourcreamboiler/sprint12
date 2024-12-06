@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	ParcelStatusRegistered = "registered" //sosjoiss
+	ParcelStatusRegistered = "registered" //sosjoissebgrbgfb
 	ParcelStatusSent       = "sent"
 	ParcelStatusDelivered  = "delivered"
 )
